@@ -1,0 +1,36 @@
+{
+  "name": "opsx-cc-teams-init",
+  "version": "1.0.0",
+  "description": "Initialize OpenSpec with CC Teams schema for team analysis",
+  "main": "lib/init.js",
+  "bin": {
+    "opsx-cc-teams-init": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openspec",
+    "teams",
+    "cli",
+    "ai",
+    "development",
+    "workflow"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/opsx-cc-teams-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/opsx-cc-teams-init/issues"
+  },
+  "homepage": "https://github.com/your-username/opsx-cc-teams-init#readme"
+}
